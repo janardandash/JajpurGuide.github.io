@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/photo" />
+        <item
+            android:id="@+id/nav_otherinfo"
+            android:icon="@drawable/ic_menu_black_24dp"
+            android:title=" Other Info" />
+        <item
+            android:id="@+id/nav_geoinfo"
+            android:icon="@drawable/ic_menu_black_24dp"
+            android:title=" Geographical Info" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_contacts_black_24dp"
+            android:title="Contacts" />
+        <item
+            android:id="@+id/nav_decla"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="About Us" />
+    </group>
+
+
+
+</menu>

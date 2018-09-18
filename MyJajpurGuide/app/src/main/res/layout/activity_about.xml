@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="jana.jani.john.myjajpurguide.AboutActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:id="@+id/layout"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:layout_marginBottom="10dp"
+        android:text="@string/jajpur"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="@string/jajpurdesc"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:layout_marginBottom="10dp"
+        android:text="@string/Geographi"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="@string/jajpurdesc1"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:layout_marginBottom="10dp"
+        android:text="@string/Demographics"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"
+            android:text="@string/Important"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc8"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc9"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc10"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc11"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc12"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc13"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc14"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc15"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="@string/jajpurdesc16"/>
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="@string/jajpurdesc17"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"
+            android:text="@string/Demographic"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc98"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"
+            android:text="@string/Politics"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/jajpurdesc4"/>
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:shrinkColumns="*"
+            android:stretchColumns="*"
+            android:background="#ffffff">
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+                    android:id="@+id/col1"
+                    android:text="Constituency"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/col2"
+                    android:text="Member of 14th Assembly"
+                    android:layout_weight="1"
+                    android:background="#d3d3d3"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/col3"
+                    android:text="Party"
+                    android:layout_weight="1"
+                    android:background="#cac9c9"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+                    android:id="@+id/row1col1"
+                    android:text="Binjharpur"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/row1col2"
+                    android:text="Smt. Pramila Mallik"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:id="@+id/row1col3"
+                    android:text="BJD"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow3"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Bari"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="Debasis Nayak"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="BJD"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow4"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Barchana"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="Amar Prasad Satpathy"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="BJD*"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow5"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Dharmasala"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="Pranab Balabantaray"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="BJD"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow6"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Jajpur"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="Pranab Prakash Das"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="BJD"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow7"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Jajpur"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="Pranab Prakash Das"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="BJD"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow8"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Korei"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="Akash Das Nayak"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="BJD"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow9"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Sukinda"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="Preeti Ranjan Ghadei"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="BJD"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

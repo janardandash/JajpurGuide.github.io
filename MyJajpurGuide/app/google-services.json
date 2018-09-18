@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378813899912",
+    "firebase_url": "https://jajpurguide-5ec9b.firebaseio.com",
+    "project_id": "jajpurguide-5ec9b",
+    "storage_bucket": "jajpurguide-5ec9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378813899912:android:0c61475bc46c3aa7",
+        "android_client_info": {
+          "package_name": "jana.jani.john.myjajpurguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378813899912-o411r1mbj3t20hn8uda71mv6dcso7tn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jana.jani.john.myjajpurguide",
+            "certificate_hash": "fa6aa5f069dff5a65a372eaeb6f66cb6537b359a"
+          }
+        },
+        {
+          "client_id": "378813899912-jigc0u8rioc9uosedpavh5oqjils6je7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmu5kOaxFrzcfwc74Vyid5ErfpB908ZDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378813899912-jigc0u8rioc9uosedpavh5oqjils6je7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

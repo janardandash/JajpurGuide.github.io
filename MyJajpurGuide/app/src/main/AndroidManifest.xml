@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jana.jani.john.myjajpurguide">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+     android:roundIcon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="jana.jani.john.myjajpurguide.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jana.jani.john.myjajpurguide.SigtsDetails"
+            android:label="@string/details" />
+        <activity
+            android:name="jana.jani.john.myjajpurguide.PhotoGallery"
+            android:label="@string/photogallery" />
+        <activity
+            android:name="jana.jani.john.myjajpurguide.PhotoMainlist"
+            android:label="@string/photogallery" />
+        <activity
+            android:name="jana.jani.john.myjajpurguide.AboutActivity"
+            android:label="@string/About" />
+        <activity
+            android:name="jana.jani.john.myjajpurguide.InfoMenuActivity"
+            android:label="@string/About" />
+        <activity
+            android:name="jana.jani.john.myjajpurguide.GeopraphicalActivity"
+            android:label="@string/About" />
+        <activity
+            android:name="jana.jani.john.myjajpurguide.ContactActivity"
+            android:label="@string/Aboutcontact" />
+        <activity android:name="jana.jani.john.myjajpurguide.AboutAppActivity"
+            android:label="@string/Aboutappcontact"
+            ></activity>
+    </application>
+
+</manifest>

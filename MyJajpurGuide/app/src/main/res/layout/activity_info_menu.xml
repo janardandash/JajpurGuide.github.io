@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="jana.jani.john.myjajpurguide.InfoMenuActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"
+            android:text="@string/Geography"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/Geographydes"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"
+            android:text="@string/Geographypres"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/climate"/>
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:shrinkColumns="*"
+            android:stretchColumns="*"
+            android:background="#ffffff">
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            >
+            <TextView
+                android:id="@+id/col1"
+                android:text="Month"
+                android:layout_weight="1"
+                android:background="#000000"
+                android:textColor="@color/white"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/col2"
+                android:text="Avg high"
+                android:layout_weight="1"
+                android:background="#000000"
+                android:textColor="@color/white"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/col3"
+                android:text="Avg low"
+                android:layout_weight="1"
+                android:background="#000000"
+                android:textColor="@color/white"
+                android:gravity="center"/>
+            <TextView
+                android:id="@+id/col4"
+                android:text="Avg precipitation"
+                android:layout_weight="1"
+                android:background="#000000"
+                android:textColor="@color/white"
+                android:gravity="center"/>
+        </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Jan"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="29.2°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="15.2°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="41.3 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow3"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Feb"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="32.3°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="18.7°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="26.0 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow4"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Mar"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="35.4°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="22.6°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="27.8 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow5"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Apr"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="37.0°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="25.0°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="48.5 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow6"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="May"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="37.5°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="26.2°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="130.6 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow7"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Jun"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="34.7°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="26.1°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="243.4 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow8"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Jul"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="32.3°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="25.5°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="340.6 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow9"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Aug"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="31.8°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="25.3°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="401.1 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow10"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Sep"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="32.3°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="25.0°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="269.5 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow11"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Oct"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="32.0°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="23.3°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="195.8 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow12"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Nov"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="30.7°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="19.1°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="37.2 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+            <TableRow
+                android:id="@+id/tableRow13"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Dec"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="29.0°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="15.0°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="38.5 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRow14"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+                <TextView
+
+                    android:text="Year"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="32.85°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="22.25°C"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+                <TextView
+
+                    android:text="1,800.3 mm"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"                     android:textColor="#000000"
+                    android:gravity="center"/>
+            </TableRow>
+
+
+        </TableLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#000000"
+            android:layout_marginBottom="10dp"
+            android:text="@string/Colleges"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname1"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname2"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname3"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname4"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname5"/>
+
+        </LinearLayout>
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:padding="5dp"
+            android:src="@drawable/circle_24dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/clgname6"/>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname7"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname8"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname9"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clgname10"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="S G College, Kanikapada, Jajpur"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kalinganagar Polytechnic,Jajpur Road"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="B.V.Mohabidyalaya, Haripur"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A.S.College, Balia, Jajpur"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Biraja Women's College, Jajpur"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Biraja Law College, Jajpur"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:padding="5dp"
+                android:src="@drawable/circle_24dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dasarathpur college, Dasarathpur"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

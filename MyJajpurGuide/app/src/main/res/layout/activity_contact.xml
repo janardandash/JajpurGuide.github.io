@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="jana.jani.john.myjajpurguide.ContactActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Important Offices and Phone Numbers"
+            android:padding="5dp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="20dp"/>
+        
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:shrinkColumns="*"
+            android:stretchColumns="*"
+            android:background="#dcdcdc">
+            <TableRow
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp"
+                >
+            <TextView
+                android:text="Name/Designation"
+                android:layout_weight="1"
+                android:background="#000000"
+                android:textSize="15dp"
+                android:textColor="@color/white"
+                android:gravity="center"/>
+
+            <TextView
+                android:text="Phone No.(Ofc)"
+                android:layout_weight="1"
+                android:background="#000000"
+                android:textSize="15dp"
+                android:textColor="@color/white"
+                android:gravity="center"/>
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+            <TextView
+
+                android:text="Collector"
+                android:layout_weight="1"
+                android:background="#dcdcdc"
+                android:textColor="#000000"
+                android:gravity="center"/>
+
+            <TextView
+
+                android:text="06728-222001"
+                android:layout_weight="1"
+                android:autoLink="phone"
+                android:background="#dcdcdc"
+                android:textColor="#000000"
+                android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="A.D.M, Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222479"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Sub-Collector,Jajpur"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222322"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="President Zilla Parishad"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222584"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="District Emergency Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222648"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="D.I.P.R.O,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222004"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="C.D.M.O., Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222597"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="C.D.V.O., Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="09437020393"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="D.A.O., Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222056"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="OIC, Election"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222568"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="C.S.O., Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222055"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Fire Officer,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222233/101"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="DPO-Panchayat, Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222592"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="DWO, Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222661"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="C.S.O., Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222055"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="DSWO, Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-223075"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Nizarat Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222479"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Small Sv. Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222612"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Treasury Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222064"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Asst. Dir. Fisheries"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222693"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="CI of Schools"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222026"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Nizarat Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222479"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Dist.Sub-Register"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222679"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Dist. Employment Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222659"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Consolidation Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222117"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="RTO, Chandikhol"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-220220"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Planning Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222854"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Asst. Regr. Co-op"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222012"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Dy. Dir, Mines"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220241"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Consolidation Officer"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222117"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O.s"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222011"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O.,Binjharpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-230024"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Dasarathpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-254632"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Korei"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-265060"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Danagadi"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220308"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:padding="5dp">
+            <TextView
+
+                android:text="B.D.O,Sukinda"
+                android:layout_weight="1"
+                android:background="#dcdcdc"
+                android:textColor="#000000"
+                android:gravity="center"/>
+
+            <TextView
+
+                android:text="06726-244421"
+                android:layout_weight="1"
+                android:autoLink="phone"
+                android:background="#dcdcdc"
+                android:textColor="#000000"
+                android:gravity="center"/>
+
+        </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Barchana"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-220269"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Dharmasala"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-273023"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:padding="5dp">
+            <TextView
+
+                android:text="B.D.O,Bari"
+                android:layout_weight="1"
+                android:background="#dcdcdc"
+                android:textColor="#000000"
+                android:gravity="center"/>
+
+            <TextView
+
+                android:text="06728-246624"
+                android:layout_weight="1"
+                android:autoLink="phone"
+                android:background="#dcdcdc"
+                android:textColor="#000000"
+                android:gravity="center"/>
+
+        </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Rasulpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-271034"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="B.D.O,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222011"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="TAHASILDARS"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Tahasildar,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222053"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Tahasildar,Binjharpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-230026"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Tahasildar,Sukinda"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220205"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Tahasildar,Dharmasala"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-273036"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Tahasildar,Darpan"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-220222"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Tahasildar,Bari"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-246626"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="POLICE"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+            </TableRow>
+                    <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="S.P.,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-240112"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Addl. SP.,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-240445"
+                    android:layout_weight="1"
+                    android:autoLink="all"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="SDPO, Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222042"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="RI, Panikoili"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-240105"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="POLICE STATIONS"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Jajpur P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="100/06728-222244"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Dharmasala P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-273050"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Barachana  P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-220100"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Binjharpur  P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-230033"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Korei  P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220235"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Sukinda  P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-244429"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Jajpur Road P.S"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220333"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Mangalpur  P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-258221"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Duburi P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-245720"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Dharmasala P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-273050"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Balichandrapur P.S."
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="0671-2758749"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="FIRE STATIONS"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Chandikhol"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-220101"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="J.K.Road"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220444"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Jajpur Town"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222233/101"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="EXECUTIVE ENGINEERS"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Irrigation Divn.,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222022"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Irrigation Divn.,Jarka"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-273060"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="R.D., Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222059"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="R.B, Panikoili"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-240120"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="R.W.S.S.,Chandikhol"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06725-220338"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="D.R.D.A.-Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-223829"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="GED - J. Road"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220273"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="D.O"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-220293"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="OLIC, Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000
+
+"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220356"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="BANKS"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="SBI-Jajpur Town"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="222036/222014"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="UCO-Bank,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222085"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Indian Bank,Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-222097"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Andhra Bank,Jajpur Road"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220406"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Central Bank,Jajpur Road"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220357"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="Bank of India,Ragadi"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06728-220438"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="SBI-JK Road"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="06726-220440"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="DISTRICT CONTROL ROOM"
+                    android:layout_weight="1"
+                    android:background="#000000"
+                    android:textSize="15dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+            </TableRow>
+            <TableRow
+
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="5dp">
+                <TextView
+
+                    android:text="DCR-Jajpur"
+                    android:layout_weight="1"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+                <TextView
+
+                    android:text="0671-2607842"
+                    android:layout_weight="1"
+                    android:autoLink="phone"
+                    android:background="#dcdcdc"
+                    android:textColor="#000000"
+                    android:gravity="center"/>
+
+            </TableRow>
+
+        </TableLayout>
+        
+        
+    </LinearLayout>
+
+</ScrollView>

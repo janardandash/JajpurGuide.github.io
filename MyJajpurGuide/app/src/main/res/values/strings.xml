@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">Jajpur Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="website">jajpur.nic.in</string>
+    <string name="name">Jajpur</string>
+    <string name="category_sights">Tourist places</string>
+    <string name="category_food">Festivals</string>
+    <string name="category_shops">Public sectors</string>
+    <string name="category_info">Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_internet_name">Internet</string>
+    <string name="info_internet_description">Jajpur (also known as Jajapur,"ଯାଜପୁର") is a city and a municipality in Jajpur district in the Indian state of Odisha. It is popularly known as Biraja Khetra, which translates as "the place sacred to Goddess Biraja", and is located on the banks of the Baitarani River. It was the capital of Odisha during the Kesari dynasty, later supplanted by Cuttack. Now, it is the headquarters of Jajpur district.</string>
+    <string name="info_konbini_name">Jajpur</string>
+    <string name="info_konbini_description">Description</string>
+    <string name="info_transport_name">How to Reach</string>
+    <string name="info_transport_description">Tourist can reach to the spot by availing bus from Cuttack, Bhubaneswar, Kolkota and other small cities of Odisha. Journey can be more comfortable if tourists hire a four wheeler to visit the spot.</string>
+    <string name="sight_Biraja_name">Maa Biraja Temple</string>
+    <string name="sight_Biraja_description">The Biraja Temple or Girija Kshetra is a historic Hindu temple located in Jajpur (about 125 kilometres (78 mi) north of Bhubaneswar), Odisha, India.</string>
+    <string name="sight_Biraja_address">Devidwar, Jajpur, Odisha,755001</string>
+    <string name="sight_Biraja_phone">7838742669</string>
+    <string name="sight_Biraja_schedule">06:00-18:00. EveryDay</string>
+    <string name="sight_Biraja_price">Verasatile..</string>
+    <string name="food_festival_name">Maha Bisuva Sankaranti</string>
+    <string name="shop_potato_name">Collector office</string>
+    <string name="food_festival_description">Pana Sankranti, also known as Maha bisuba Sankranti, is the traditional new year day festival of Buddhists and Hindus in Odisha, India.</string>
+    <string name="food_festival_schedule">14 April every year</string>
+    <string name="shop_potato_description">Office of the Collector and District Magistrate</string>
+    <string name="shop_potato_address">Jajpur,At/Po-Jajpur, Dist.-Jajpur,Pin-755001</string>
+    <string name="shop_potato_phone">06728-222001</string>
+    <string name="shop_potato_schedule">10:00-17:30</string>
+    <string name="sight_Chandikhole_name">Chandikhole</string>
+    <string name="sight_Chandikhole_description">Chandikhole is a town in Jajapur district, Odisha, India. The place has been named after Goddess Chandi worshipped by late monk Baba Bhairabananda Bramhachari who established the deity of Maa Chandi in one of the adjoining hills of Barunei full of dense forest and ferrocious animals in 1932.</string>
+    <string name="sight_Chandikhole_phone">9437232530, Mr. P.K Patnaik (District Tourist officer)</string>
+    <string name="sight_Duburi_name">Duburi</string>
+    <string name="sight_Duburi_description">Duburi is at a distance of 38 km from Chandikhol towards Daitari mines on Express Highway. It is going to be one of the most eminent cities of Odisha in the very near future as a number of steel plants have been established here. These are Neelachal Ispat Nigam Ltd., Jindal Stainless, Mesco Steels., VISA Steel and a few others. Also TATA group is going to build a huge plant here.</string>
+    <string name="sight_Ratnagiri_name">Archaeological museum at Ratnagiri</string>
+    <string name="sight_Ratnagiri_description">Archaeological museum at Ratnagiri is one of the important site museums of Archaeological Survey of India, built on the northern crest of the Ratnagiri village, of District Jajpur in Odisha.</string>
+    <string name="sight_Chhatia_name">Lord Jagannath Temple,Chhatia</string>
+    <string name="sight_Chhatia_description">Chhatia is famous for Lord Jagannath Temple. It is situated at a distance of 25 kms from Cuttack.It is believed as the second Shreekhetra of Odisha.</string>
+    <string name="sight_Mahabinayak_name">Mahabinayak Temple</string>
+    <string name="sight_Mahabinayak_description">Mahabinayak is situated at a distance of 6 km from Chandikhol to the west.Here tourists can enjoy the natural surroundings and the temples of Lord Binayak.</string>
+    <string name="sight_Atharanala_name">Atharanala</string>
+    <string name="sight_Atharanala_description">Atharanala is one of the oldest visiting places for tourist in Jajpur District.The Place is about 200 meteres away from Biraja Temple.</string>
+    <string name="sight_Dasaswamedha_name">Dasaswamedha Ghat</string>
+    <string name="sight_Dasaswamedha_description">Dasaswamedha Ghat is situated on the bank of river Baitarani. This famous holy spot was built during the rule of Jajati Kesari.Baruni Snana is a significant occasion when many pilgrims visit the place for holy bath, which is celebrated during the month of February and March.</string>
+    <string name="sight_gokarneswar_name">Gokarneswar temple</string>
+    <string name="sight_gokarneswar_description">Famous Gokarneswar temple is located 1km. away from Jaraka. The temple has mythological importance since the days of Mahabharat. Pandavas came to the bank of river Brahmani for paying homage to their forefathers. As river Brahmani is considered one of holy rivers of India, pandavas choose it spot for their ancestral rituals.</string>
+    <string name="sight_langudi_name">Langudi hill</string>
+    <string name="sight_langudi_description">Langudi hill is one of the Budhist monuments of Jajpur. The hill is located on the bank of river Kelua. The inscriptions on the stones are unique in nature and rarest both in Northeastern part of India and the world.</string>
+    <string name="sight_saptamatruka_name">Saptamatruka Temple</string>
+    <string name="sight_saptamatruka_description">The temple of seven goddessess which is known as Saptamatruka is on the Dasaswamedha Ghat. The seven Goddesses worshipped here are Chamunda, Barahi, Indrani, Vaisnavi, Brahmi, Kaimari, Maheswari and Narasingh. The place is considered as a famous Shaktipitha of the State.</string>
+    <string name="sight_trilochaneswar_name">Trilochaneswar Temple</string>
+    <string name="sight_trilochaneswar_description">This temple of lord Shiva is located at Jaunlibandha. It is believed to be a remarkable contribution of Ganga Bansa Kings.The accommodation facility can be availed at Jajpur Road and Jajpur town by hiring Hotels and Lodges.</string>
+    <string name="sight_udayagiri_name">Udayagiri</string>
+    <string name="sight_udayagiri_description">Udayagiri is a famous Buddhist place of the district, which is visited by the visitors and Buddhists throughout the year. The place is located by the side of NH 5A that is connected from Cuttack to Paradeep via Chandikhol.</string>
+    <string name="sight_galagali_name">Galagali Sankha</string>
+    <string name="sight_galagali_description">Galagali Sankha well known as SATARNALA BRIDGE. The bridge is one of the oldest visiting place for the tourist in Jajpur district. The bridge is about 34ft wide and length is 304ft.</string>
+    <string name="food_chandan_name">Chandan Purnima</string>
+    <string name="food_chandan_schedule">Month of April</string>
+    <string name="food_chandan_description">Chandan Purnima festival is also held in numerous other temples dedicated to Lord Jagannath in Orissa. It begins on the Akshaya Tritiya day.</string>
+    <string name="food_makarmela_name">Baruneswar Mela</string>
+    <string name="food_makarmela_description">Baruneswar ‘Mela’ is one of the most important ‘Mela’ continuing for 7 days beginning from Makara Sankranti i.e. 1st day of Magha (14th January) every year.</string>
+    <string name="food_makarmela_schedule">1st day of Magha</string>
+    <string name="food_akshaya_name">Akshaya Tritiya</string>
+    <string name="food_akshaya_description">Akshaya Tritiya, also known as Akti or Akha Teej, is annual spring time festival of the Hindus and Jains. It falls on the third Tithi of Bright Half of Vaisakha month.</string>
+    <string name="food_akshaya_schedule">late April-early May</string>
+    <string name="food_baitarani_name">Birth day of Baitarani</string>
+    <string name="food_baitarani_schedule">Month of June</string>
+    <string name="food_baitarani_description">The Baitarani River or River Baitarani is one of six major rivers of Odisha, India. Venerated in popular epics and legends, the Baitarani River is a source of water for agricultural irrigation.</string>
+    <string name="food_biraja_name">Car festival of Maa Biraja</string>
+    <string name="food_biraja_schedule">Month of October for 9 days</string>
+    <string name="food_biraja_description">Rathayatra or the car festival of Goddess Biraja is the most important festival of Jajpur. During Durga puja it is celebrated for nine days form the first day of the bright fortnight (Pratipada) of the month of Asvina (September-October), the wooden chariot of Goddess Biraja is placed in front of the lion’s gate.</string>
+    <string name="food_kumarapurnima_name">Kumara Purnima</string>
+    <string name="food_kumarapurnima_description">Kumara Purṇima festival is observed on the full moon day of Asvina (September-October). On this festival occasion the deity decorated with golden ornaments like a virgin.</string>
+    <string name="food_kumarapurnima_schedule">Month of October</string>
+    <string name="food_vakul_name">Vakuḷa Amavasya</string>
+    <string name="food_vakul_description">On the new moon day of Pauṣa (Dec-Jan) Vakuḷa Amavasya is celebrated in the Biraja temple. The goddess is offered with a special kind of cake named ‘Gaiṇṭha’ mixed with milk, sugar and mango inflorescence after the puja rites are held.</string>
+    <string name="food_vakul_schedule">Month of Dec-Jan</string>
+    <string name="food_dahnu_name">Dhanu Sankranti</string>
+    <string name="food_dahnu_description">This is beginning of the month of Pauṣa (December-January) when people enjoy sweetened balls of parched and husked paddy for health. The same tradition is observed near Goddess Biraja with special worship and offering of sweetened balls of parched and hasked paddy.</string>
+    <string name="food_dahnu_schedule">December-January</string>
+    <string name="food_prathamaṣṭami_name">Prathamaṣṭami</string>
+    <string name="food_prathamaṣṭami_description">It is a tradition is Odisha that or the day of Prathamaṣṭami in November, the eldest sons and daughters wear new clothes and takes a special and delicious cake with turmeric aroma named ‘Enḍuri’. Similarly Goddess Biraja is dressed with new clothes after due rituals and offered ‘Enḍuri’.</string>
+    <string name="food_prathamaṣṭami_schedule">Month of November</string>
+    <string name="food_dipavali_name">deepavali</string>
+    <string name="food_dipavali_description">On the eve of Kali puja in the month of November, Dipavali is celebrated with the lighting of several lamps. Special Tantric rituals are held near the Parsva Devata Ekapada Bhairava and Camuṇḍa on the western side of the temple.</string>
+    <string name="food_dipavali_schedule">Month of October</string>
+    <string name="food_raja_name">Raja Parba</string>
+    <string name="food_raja_description">Raja or Raja Parba or Mithuna Sankranti is a three-day-long festival and the second day signifies beginning of the solar month of Mithuna from, which the season of rains starts.</string>
+    <string name="food_raja_schedule">Month of June</string>
+    <string name="food_baraha_dola_yatra_name">Dola Yatra</string>
+    <string name="food_baraha_dola_yatra_description">This is Celebrated from the tenth day of the bright fortnight of Falguna up to the full moon day. The representative deities Dologobinda, Bhudevi and Sreedevi are taken in a procession to Dolabedi located outside the outer compound wall of the main Temple and special rites are performed.</string>
+    <string name="food_baraha_dola_yatra_schedule">Falguna up to the full moon day</string>
+    <string name="food_kuansa_schedule">Month of April</string>
+    <string name="food_kuansa_name">Kuansa Mangala Mela</string>
+    <string name="food_kuansa_description">Kuansa Mangala Mela is one of the most important ‘Mela’ continuing for 3 days at Kuansa,Dasarathpur every year.</string>
+    <string name="food_zillamahotsv_name">Zilla Mahotsv</string>
+    <string name="food_zillamahotsv_description">Zilla mahotsav has been organised with effect from 2000.</string>
+    <string name="food_zillamahotsv_schedule">Month of November</string>
+    <string name="shop_hospital_name">District Headquarter Hospital (D.H.H)</string>
+    <string name="shop_hospital_description">District Headquarters Hospital Campus, Jajapur is located in Jajpur taluk, Jajapur district, Odisha state.</string>
+    <string name="shop_hospital_schedule">Everyday</string>
+    <string name="shop_postoffice_name">JAJPUR HEAD POST OFFICE</string>
+    <string name="shop_postoffice_description">It is the head post office of the Jajpur district.</string>
+    <string name="shop_postoffice_address">NA SH 56 Jajpur Odisha 755035, SH 56, Quareshi Mohalla, Jajpur, Odisha 755035</string>
+    <string name="sight_post_phone">06728-222164</string>
+    <string name="shop_postoffice_schedule">10AM-04PM , Except Sunday</string>
+    <string name="shop_police_name">Jajpur Police Station</string>
+    <string name="shop_police_address">Jajati Nagar, Jajpur, Odisha 755001</string>
+    <string name="sight_police_phone">9890188416</string>
+    <string name="shop_railwaystation_name">Jajpur K Road Railway station</string>
+    <string name="shop_railwaystation_address">The railway station is located at an altitude of 36 metres (118 ft). It functions within the jurisdiction of Khurda Road railway division. It is the nearest railhead for Kalinganagar.</string>
+    <string name="sight_railwaystation_phone">8294331215</string>
+    <string name="address">Jajpur Road, Odisha 755019</string>
+    <string name="shop_court_name">District Court, Jajpur</string>
+    <string name="shop_court_address">NA, State Highway 56, Jajpur, Odisha 755035</string>
+    <string name="sight_court_phone">06728-224246</string>
+    <string name="des"><![CDATA[After separation from the erstwhile composite Judgeship of Cuttack, Jagatsingpur, Jajpur & Kendrapara, Jajpur became an independent Judgeship started functioning w.e.f 28.06.2012. Presently the District Court is functioning at the Town Hall, Jajpur spared by the Collector, Jajpur.]]></string>
+    <string name="directions">Directions</string>
+    <string name="sight_Biraja_brief">Biraja Temple or Viraja Kshetra , is one of the ancient Hindu temples located in the Jajpur district of Odisha, India. This present temple was built in 13th century. It is situated in the Jajpur township which is nearly 125 KM north from Bhubaneswar. The main idol is Devi Durga who is worshiped by the name Viraja.The idol is having two hands, in one hand she pierces the chest of Mahishasura with a spear and in other hand she pulls the tail of the Mahishasura.The Durga idol is standing on Lion in one leg and other leg is on Mahishasura chest.The Mahishasura is depicted as a Buffalo, not as regular human demon.The crown of Devi has symbol of Ganesha, Crescent moon and a Shivalinga.The temple covers a large area, and it has several Shiva linga and other deities. Jajpur is also known as Viraja Kshetra or Biraja Peetha.According to Skanda Purana,utkala khanda it washes all rajo guna of pilgrims. So called as Viraja or Biraja kshetra.The accommodation facility can be availed at Jajpur Road by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I and a few nationalized banks which are located at Jajpur town. The common languages spoken in the area are Odia, Hindi and English. Head Quarter hospital Jajpur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_Biraja_reach">Tourist can reach to the spot by availing bus from Cuttack, Bhubaneswar, Kolkota and other small cities of Odisha. Journey can be more comfortable if tourists hire a four wheeler to visit the spot.</string>
+    <string name="sight_duburi_brief">Chandikhole is a town in Jajapur district, Odisha, India. The place has been named after Goddess Chandi worshipped by late monk Baba Bhairabananda Bramhachari who established the deity of Maa Chandi in one of the adjoining hills of Barunei full of dense forest and ferrocious animals in 1932.The accommodation facility can be availed at Chandikhol and Cuttack by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I and a few nationalized banks which are located at Chandikhol. The common languages spoken in the area are Odia, Hindi and English. S.C.B Medical college Cuttack is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_duburii_brief">Duburi is at a distance of 38 km from Chandikhol towards Daitari mines on Express Highway. It is going to be one of the most eminent cities of Odisha in the very near future as a number of steel plants have been established here. These are Neelachal Ispat Nigam Ltd., Jindal Stainless, Mesco Steels., VISA Steel and a few others. Also TATA group is going to build a huge plant here.The accommodation facility can be availed at Jajpur Road by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I Duburi. The common languages spoken in the area are Odia, Hindi and English. PHC, Sukinda is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_ratna_brief">Archaeological museum at Ratnagiri is one of the important site museums of Archaeological Survey of India, built on the northern crest of the Ratnagiri village, of District Jajpur in Odisha.</string>
+    <string name="sight_chatia_brief">Chhatia is famous for Lord Jagannath Temple. It is situated at a distance of 25 kms from Cuttack.It is believed as the second Shreekhetra of Odisha according to the facts described in Malika.The accommodation facility can be availed at Chandikhol and Cuttack by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I Chatia. The common languages spoken in the area are Odia, Hindi and English. PHC, Chatia is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_mahabinayak_brief">Mahabinayak is situated at a distance of 6 km from Chandikhol to the west.Here tourists can enjoy the natural surroundings and the temples of Lord Binayak.The accommodation facility can be availed at Chandikhol and Cuttack by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I Chandikhol. The common languages spoken in the area are Odia, Hindi and English. PHC, Badachana is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_atharanala_brief">Atharanala is one of the oldest visiting places for tourist in Jajpur District.The Place is about 200 meteres away from Biraja Temple. The accommodation facility can be availed at Jajpur Road by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I and a few Nationalized banks which are located at Jajpur town. The common languages spoken in the area are Odia, Hindi and English. Head Quarter hospital Jajpur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_ghata_brief">Dasaswamedha Ghat is situated on the bank of river Baitarani. This famous holy spot was built during the rule of Jajati Kesari.Baruni Snana is a significant occasion when many pilgrims visit the place for holy bath, which is celebrated during the month of February and March. It is beleived that you are blessed if you take bath at Dasaswamedha Ghat in any holy day of Hindu calender.The accommodation facility can be availed at Jajpur Road and Jajpur Town by hiring Hotels and Lodges. For financial purpose, the nearest banks located to this tourist place are S.B.I Chandikhol and a few nationalized banks. The common languages spoken in the area are Odia, Hindi and English. District Head Quarter hospital, Jajpur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_gokarneswara_brief">Famous Gokarneswar temple is located 1km. away from Jaraka. The temple has mythological importance since the days of Mahabharat. Pandavas came to the bank of river Brahmani for paying homage to their forefathers. As river Brahmani is considered one of holy rivers of India, pandavas choose it spot for their ancestral rituals.The accommodation facility can be availed at Jajpur Road and Jajpur Town by hiring Hotels and Lodges. For financial purpose, the nearest banks located to this tourist place are S.B.I Jajpur and a few nationalized banks. The common languages spoken in the area are Odia, Hindi and English. District Head Quarter hospital, Jajpur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_langudi_brief">Langudi hill is one of the Budhist monuments of Jajpur. The hill is located on the bank of river Kelua. The inscriptions on the stones are unique in nature and rarest both in Northeastern part of India and the world.The accommodation facility can be availed at Jajpur Road by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I Jarka. The common languages spoken in the area are Odia, Hindi and English. PHC Dharmasala is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_jaganatha_name">Jagannath Temple</string>
+    <string name="sight_jaganatha_description">One of the famous temples of Jajpur District, Jaganath temple is located on the Bank of river Baitarani. Many piligrim spots are closely situated to this temple.</string>
+    <string name="sight_jagantha_brief">One of the famous temples of Jajpur District, Jaganath temple is located on the Bank of river Baitarani. Many piligrim spots are closely situated to this temple. There is no historical information regarding the construction of the temple. The construction style of the temple proves it as one of the oldest temple.One of the famous temples of Jajpur District, Jaganath temple is located on the Bank of river Baitarani. Many piligrim spots are closely situated to this temple. There is no historical information regarding the construction of the temple. The construction style of the temple proves it as one of the oldest temple.The accommodation facility can be availed at Jajpur Road and Jajpur Town by hiring Hotels and Lodges. For financial purpose, the nearest banks located to this tourist place are S.B.I Jajpur and a few nationalized banks. The common languages spoken in the area are Odia, Hindi and English. District Head Quarter hospital, Jajpur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_saptamatruka_brief">The temple of seven goddessess which is known as Saptamatruka is on the Dasaswamedha Ghat. The seven Goddesses worshipped here are Chamunda, Barahi, Indrani, Vaisnavi, Brahmi, Kaimari, Maheswari and Narasingh. The place is considered as a famous Shaktipitha of the State.The accommodation facility can be availed at Jajpur Road and Jajpur town by hiring Hotels and Lodges. For financial purpose, the nearest banks located to this tourist place are S.B.I Jajpur and a few nationalized banks. The common languages spoken in the area are Odia, Hindi and English. District head Quarter hospital, Jajpur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_trilochaneswar_brief">This temple of lord Shiva is located at Jaunlibandha. It is believed to be a remarkable contribution of Ganga Bansa Kings.The accommodation facility can be availed at Jajpur Road and Jajpur town by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I and a few nationalized banks which are located at Jajpur town. The common languages spoken in the area are Odia, Hindi and English. Head Quarter hospital Jajpur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_udayagiri_brief">Udayagiri is a famous Buddhist place of the district, which is visited by the visitors and Buddhists throughout the year. The place is located by the side of NH 5A that is connected from Cuttack to Paradeep via Chandikhol.The place is situated approximately 15 kms from Balichandrapur. The accommodation facility can be availed at Jajpur Road and Jajpur town by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I Balichandrapur. The common languages spoken in the area are Odia, Hindi and English. PHC, Balichandrapur is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="sight_sanka_brief">Galagali Sankha well known as SATARNALA BRIDGE. The bridge is one of the oldest visiting place for the tourist in Jajpur district. The bridge is about 34ft wide and length is 304ft. Sri chaitanya Deba was visit and rest in this place at the time of 1556. Bada Danda Road was passing away from Maa Biraja temple to Jagannath temple, Puri. The place is 7 k.m away from Chandikhol Chhak. The accommodation facility can be avail at Chandikhol Chhak by having Hotel and lodge. For financial purpose the nearest bank located to this tourist place is SBI,UBI and a few nationalised bank which are located at chandikhol chhak. The common languages spoken in the area are Odia,Hindi and English. Govt. Hospital is nearest at Dharmasala and Barchana to this spot for accessing medical facility. The people wear light cotton in the summer and woolen in winter.</string>
+    <string name="jaganathanavigation">https://www.google.co.in/maps/place/Jagannath+Temple,+Jajpur,+Odisha+755001/@20.8553504,86.3339754,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1be3564bb8a787:0xe8234815dcc0f0b8!8m2!3d20.8553329!4d86.3361313</string>
+    <string name="navigationbirja">https://www.google.co.in/maps/place/Maa+Biraja+Temple/@20.8335769,86.3357933,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1be49dfb7478d9:0x395d48cd5626dbcf!8m2!3d20.8335769!4d86.337982</string>
+    <string name="navigatiochandi">https://www.google.co.in/maps/place/Chandi+Mandir/@20.7027886,86.0972151,19.83z/data=!4m5!3m4!1s0x3a195d321353f6f5:0x9c9380fc2979bdfd!8m2!3d20.7028921!4d86.0975683</string>
+    <string name="navigationduburi">https://www.google.co.in/maps/place/Duburi,+Odisha+755026/@20.9916614,85.9678461,14z/data=!3m1!4b1!4m5!3m4!1s0x3a194ba6ef946c83:0x3b34d0b88526b71f!8m2!3d20.9943818!4d85.9828102</string>
+    <string name="navigationratna">https://www.google.co.in/maps/place/Ratnagiri,+Odisha/@20.6509635,86.3246584,14z/data=!4m13!1m7!3m6!1s0x3a1bdde0b6d70455:0x8dc299f75cbffc69!2sRatnagiri,+Odisha!3b1!8m2!3d20.6557836!4d86.3427458!3m4!1s0x3a1bdde0b6d70455:0x8dc299f75cbffc69!8m2!3d20.6557836!4d86.3427458</string>
+    <string name="navigationchatia">https://www.google.co.in/maps/place/Jagannath+Temple+(Bypass)/@20.6132115,86.0608706,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1968fa0875c4a1:0xd85f2bf01f263f67!8m2!3d20.6132115!4d86.0630593</string>
+    <string name="navigationmahabinayak">https://www.google.co.in/maps/place/Mahavinayak+Temple,+Chandikhol,+Odisha+755044/@20.7052856,86.0840983,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1942d1b59a021d:0x913271a822bfb09a!8m2!3d20.7054013!4d86.0862484</string>
+    <string name="navigationatharnala">https://www.google.co.in/maps/place/Atharanala,+Odisha+752002/@19.839775,85.8240507,18z/data=!3m1!4b1!4m5!3m4!1s0x3a19c6e8f3aff7b3:0x490a376e9f09370a!8m2!3d19.839635!4d85.8252655</string>
+    <string name="navigationghat">https://www.google.co.in/maps/place/Dashaswamedha+Ghata+Maa+Baitarani/@20.8553827,86.3362388,19.5z/data=!4m13!1m7!3m6!1s0x3a1be3564bb8a787:0xe8234815dcc0f0b8!2sJagannath+Temple,+Jajpur,+Odisha+755001!3b1!8m2!3d20.8553329!4d86.3361313!3m4!1s0x3a1be35636202bdf:0xc0fe065372929e15!8m2!3d20.8554795!4d86.336417</string>
+    <string name="navigationgokarneswar">https://www.google.co.in/maps/place/Jaraka,+Odisha/@20.7677098,86.1526256,16.71z/data=!4m5!3m4!1s0x3a195b8adbfa2d4f:0x30debb095db49cbb!8m2!3d20.7669847!4d86.1541908</string>
+    <string name="navigationlangudi">https://www.google.co.in/maps/place/Langudi+Hill/@20.7177444,86.1819505,15z/data=!3m1!4b1!4m5!3m4!1s0x3a195e61fe8f1527:0x8a13e3be8fed130a!8m2!3d20.7164946!4d86.1917035</string>
+    <string name="navigationtrilochaneswar">https://www.google.co.in/maps/place/Jaunlibandha,+Odisha+759118/@21.1958148,85.3012102,15z/data=!3m1!4b1!4m5!3m4!1s0x3a1f379f61d94e7b:0x16a5f650b3ea7fd2!8m2!3d21.1943024!4d85.3097442</string>
+    <string name="navigationudayagiri">https://www.google.co.in/maps/place/Udayagiri+Buddhist+Archeological+Site/@20.6430729,86.2676307,17z/data=!3m1!4b1!4m5!3m4!1s0x3a1bdf922ccd0bf1:0x7db7a79361cb5dee!8m2!3d20.6430729!4d86.2698194</string>
+    <string name="navigationsanaka">https://www.google.co.in/maps/place/Chandikhol+Chhak,+Khosalpur,+Odisha+755044/@20.7014883,86.1312933,15.79z/data=!4m5!3m4!1s0x3a195d0826de9a1d:0xcd5cf768d1c5829c!8m2!3d20.7032963!4d86.1331971</string>
+    <string name="photo">Photo Gallery</string>
+    <string name="searchbarhint">Select One Place</string>
+    <string name="photogallery">Photo Gallery</string>
+    <string name="details">Details</string>
+    <string name="about">About</string>
+    <string name="jajpur">Jajpur, Odisha ଯାଜପୁର Jajpur</string>
+    <string name="Etymologyandnames">Etymology and names</string>
+
+    <string name="jajpurdesc2">Later, the city came to be known as Yajanagara. According to one theory, this name is a corruption of \"Yayatinagara\". Another theory is that it dervies from the Brahmanical sacrifices (Yajna) that became popular during the Ganga-Gajapati period (11th-16th century).In the Muslim chronicles such as Tabaqat-i-Nasiri and Tarikh-i-Firuzshahi, the city\'s name was mentioned as \"Jajnagar\". Later, the suffix \"-nagar\" (\"city\") was replaced with the equivalent \"-pur\", and the city\'s name became \"Jajpur\".</string>
+    <string name="Demographics">Economy</string>
+    <string name="Politics">Politics</string>
+
+    <string name="Geography">Geography and climate</string>
+    <string name="Geographydes">Jajpur is located at 20.85°N 86.33°E[6] and has an average elevation of 8 metres (26 ft). The climate of Jajpur District is normal as per Indian standards. All the seasons arrive in the District at their usual time. The District’s average height from the sea level is 331 m and its average rain fall is 1014.5 mm. The average maximum and minimum temperatures are 40 degree C and 10 degree C respectively. Overall, the climate of the District is neither hotter nor cooler. The summer season is from March to June when the climate is hot and humid. Thunderstorms are common at the height of the summer. The monsoon months are from July to October when the city receives most of its rainfall from the South West Monsoon. The annual rainfall is around 1014.5 mm. The winter season from November to February is characterised by mild temperatures and occasional showers.</string>
+    <string name="Geographypres">Climate data for Jajpur</string>
+    <string name="Colleges">Colleges</string>
+    <string name="clgname1">N.C. Autonomous College, Jajpur Town</string>
+    <string name="clgname2">V. N. Autonomous College, Jajpur Road</string>
+    <string name="clgname3">Baruneswar College, Arei, jajpur</string>
+    <string name="clgname4">Bishnu Samantaray College, Sunguda,Jajpur</string>
+    <string name="clgname5">UNS College, Mugpal</string>
+    <string name="clgname6">Madhupur College, Kalana, Jajpur</string>
+    <string name="clgname7">Dharmasala Mahavidyalaya, Jajpur</string>
+    <string name="clgname8">Chitalo Mohavidyalaya, Jajpur</string>
+    <string name="clgname9">GOPABANDHU CHAUDHURY COLLEGE, BARI</string>
+    <string name="clgname10">B.S.H.SCHOOL(+2 COLLEGE), SAYEDPUR,JAJPUR</string>
+    <string name="clgname11" />
+    <string name="Country">Country</string>
+    <string name="India">India</string>
+    <string name="State">State</string>
+    <string name="Odisha">Odisha</string>
+    <string name="Location">Location in Odisha,India</string>
+    <string name="cord">Coordinates: 20.85°N 86.33°E</string>
+    <string name="district">district</string>
+    <string name="Jajpur">Jajpur</string>
+    <string name="Founded">Founded by</string>
+    <string name="Biraja">Biraja Khetra</string>
+    <string name="Named">Named for</string>
+    <string name="Biraj">Biraja Khetra</string>
+    <string name="Type">Type</string>
+    <string name="jajpurdesc">Jajpur is a district of Odisha, India, and an historic place of pilgrimage. As Jajpur was once the capital of the Kalinga kingdom, it is now an area of archeological wealth, including the famous Saktipitha of the Goddess Biraja, as well as the shrines of the Goddess Biraja (Durga), Yajnya Varaha (incarnation of Lord Vishnu as the white boar), Sapta Matruka, and a host of other religious figures, all located along the bank of the River Baitarani. Ashokajhar, Chandikhol, Chhatia, Gokarnika, Kuansa Mangala, Mahavinayak, Patharajpur, Ratnagiri, Udayagiri, Satyapira, Singhapur, Vyas Sarovar, and Varuneswar Pitha are some of the destinations that attract tourists to the district, and the region\'s various natural resources support mines and industries.</string>
+    <string name="Geographi">Geography</string>
+    <string name="jajpurdesc1">The district is 2,888 square kilometres (1,115 sq mi) in area, of which 202 square kilometres (78 sq mi) is forested. The population is 1, 622,868 and the literacy rate is 72.19%. The district headquarters is at Jajpur. The district is home to some 1,781 villages and two major towns. Annual rainfall is 1,771.8 millimetres (69.76 in).</string>
+    <string name="jajpurdesc3">Kalinga Nagar is situated in Danagadi Block where currently six big steel plants are operating like Jindal Stainless Limited, Neelanchal Ispat Nigam Limited, VISA Steel, Maithan Ispat Ltd., Mesco Steel, TATA STEEL and other seven are on their way to start production like Brahmani River Pellets Ltd or BRPL, Maharashtra Seamless Ltd etc.</string>
+    <string name="Important">Important Places</string>
+    <string name="jajpurdesc8">Biraja Khetra: This is the ancient name of its district headquarters Jajpur town. Jajpur town also known as Biraja Kshetra, the place sacred to Goddess Biraja, the symbol of Sakti (Power). It is a small city surrounded by the river Baitarani in semicircle and a high level canal at the other end. Jajpur town is believed to be the capital of Yayati Keshari the then king of Kalinga Empire during 11th–12th. century AD.</string>
+    <string name="jajpurdesc9">Chhatia Batta: Chhatia is famous for Lord Jagannath Temple. It is 25 km from Cuttack. It is believed as the second Shreekhetra of Odisha according to the facts described in Malika. The accommodation facility can be availed at Chandikhol and Cuttack by hiring Hotels and Lodges. For financial purpose, the nearest bank located to this tourist place is S.B.I Chatia. The common languages spoken in the area are Oriya, Hindi and English. PHC, Chatia is nearer to the spot for accessing medical facilities. People wear light cotton in summer and woolen in winter.</string>
+    <string name="jajpurdesc10">Dasaswamedha Ghat is situated on the bank of river Baitarani. This famous holy spot was built during the rule of Jajati Kesari. Baruni Snana is a significant occasion when many pilgrims visit the place for holy bath, which is celebrated during the month of February and March. It is believed that you are blessed if you take bath at Dasaswamedha Ghat in any holy day of Hindu calendar. The accommodation facility can be availed at Jajpur Road and Jajpur Town by hiring Hotels and Lodges.</string>
+    <string name="jajpurdesc11"><![CDATA[janpada Shri Dadhibaman Jiew Temple: Janpada is situated at distance of 15 km from district headquarters and 25 km from Chandikhole. According to Mukti Mandap Mahasabha & various historical manuscripts Shri Dadhibaman jiew at Janpada is more-than-900-year-old deity and worshipped by Pujaris ( Dash)communities originally from UP. Ratha Yatra is the main function of Shri Dadhibana Jiew apart from so many festivals, Hera Panchami at Mausima Temple situated at Janpada eastern parts of the village and Sunabesa on Chariot at main temple creates a different spiritual atmosphere. Adhikari Madan Dash is the chief priest and as per family tradition Mahendra Nayak is the Chief Sevayat ( Servant) of Shri Dadhibaman Jiew.]]></string>
+    <string name="jajpurdesc12">Golkunda Maa Bata Mangala Temple: At a distance of 16  from District Headquarter near to Janpada. According to local beliefs, if any one has serious health issues then he can be cured by the blessing of Maa Mangala. Every year from Pana/Bisuba Sankranti 9 days Mahayangya taking all devotees in blessings. It is situated bank of River Brahmani and beautiful Golkunda Village. Any one should go to take a visit at this beautiful place. Near by town is Brahmabarada.</string>
+    <string name="jajpurdesc13">Budha Gosain Temple.... It is a historic and cultural place of Arangabad village of Bari Block. The distance of the temple is 26 km from Jajpur towards the Saheed Smruti Pitha of Kalamatia. There is Lord Jagannath, Balbhadra and Suvadra worship by the Pujaris. All the festivals of Lord Jagannath at Puri observe here except Ratha Yatra.</string>
+    <string name="jajpurdesc14">Lalitgiri, Ratnagiri and Udayagiri: These three Buddhist monasteries (viharas) are between 60 km and 65 km northeast of Cuttack. They are said to be the ancient seat of Puspagiri, the Buddhist university of the 7th century A.D. Recently a statue of emperor Ashoka was excavated at Langudi hill. A new Buddha vihara at Hatikhal village was discovered in 2012.</string>
+    <string name="jajpurdesc15">Baruneswar Temple: Situated in the village of Arei. The Baruneswar Temple stands beside a small stream named Kushabhadra branched off from the river Baitarani on the South Eastern Limit of the Triangular Biraja Kshetra. The Siva Lingam is submerged under water. It is a famous spot for devotees and tourists during Rain and winter season. Makar Mela/Baruneswar Mela is one of the biggest fair in Odisha. Every year it begins on 14 January (Makarasankranti i.e. 1st day of Magha). This is the right time for a visitor to visit this holy place. This place is 15 km from Jajpur Town.</string>
+    <string name="jajpurdesc16">Singhpur: A very ancient historical site situated on the bank of river Kharashrota in Binjhapur Tehsil of Jajpur district of Odisha. It was capital of Kalinga Kingdom during the period of King Sinha Bahu, a contemporary of Lord Buddha and king Bimbisara of Rajgriha.</string>
+    <string name="jajpurdesc17">Vyasa sarovar mela (now called Vyasa Mahotsava) is most famous festival in Jajpur Road. Kalinga Nagar Mahotsav is being held at Jakhapura on June 30 every year.</string>
+    <string name="jajpurdesc4">The following is the 7 Vidhan sabha constituencies of Jajpur district and the elected members of that area</string>
+    <string name="Demographic">Demographics</string>
+    <string name="jajpurdesc98">According to the 2011 census Jajpur district has a population of 1,826,275, roughly equal to the nation of Kosovo or the US state of Nebraska.This gives it a ranking of 261st in India (out of a total of 640).The district has a population density of 630 inhabitants per square kilometre (1,600/sq mi) .Its population growth rate over the decade 2001–2011 was 12.43%.Jajpur has a sex ratio of 972 females for every 1000 males,and a literacy rate of 80.44%.</string>
+    <string name="About">About Jajpur</string>
+    <string name="Aboutcontact">Contacts</string>
+    <string name="aboutapp">This application is only made for helping to people of Jajpur and also for visitors.</string>
+    <string name="declaapp">The contents of this app are purely based on the data available on various genuine websites which are approximately correct. If any wrong information is found in this Application then it is subject to correction.</string>
+    <string name="declaapp2">Users are welcome to give their feedback or         to add more correct information on the below mail address.</string>
+    <string name="mail">jajpurguide@gmail.com</string>
+    <string name="website1">https://en.wikipedia.org/wiki/Jajpur_district</string>
+    <string name="Aboutappcontact">About Us</string>
+
+
+</resources>
